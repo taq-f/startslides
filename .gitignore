@@ -1,0 +1,5 @@
+node_modules
+/.cache
+/dist
+src/*
+!src/index.html
